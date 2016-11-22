@@ -9,3 +9,5 @@ git clone https://github.com/gtocino/mi_proyecto.git
 git add .
 
 git commit -m "Inicio del proyecto"
+
+git push
