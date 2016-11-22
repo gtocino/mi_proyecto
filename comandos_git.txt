@@ -1,0 +1,11 @@
+GIT
+config --global user.name "Guillermo Tocino"
+git config --global user.email guillermo.tocino@gmail.com
+
+git clone https://github.com/gtocino/mi_proyecto.git
+
+# Añadir, editar o eliminar
+
+git add .
+
+git commit -m "Inicio del proyecto"
