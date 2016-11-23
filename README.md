@@ -22,3 +22,13 @@ echo "Esto es una prueba"
 </html>
 
 ```
+
+Lista ordenadas:
+1. Menu 1
+2. Menu 2
+3. Menu 3
+
+
+Lista desordenada 
+*
+Markdown te permite poner [enlaces  a una pagina web](http://www.google.es), incluso sólo poniendo la URL: http://wwww.google.es
