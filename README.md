@@ -55,7 +55,9 @@ Tambien te permite <i>crear codigo <b>html</b></i>
 Tambien te permite poner citas:
 > Esto es una cita de otro texto.
 
-Prueba
+>Segunda linea de una cita
 
-> Cita en otra linea.
+Otra cita nueva
+
+> Cita 2.
 
