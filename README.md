@@ -30,5 +30,14 @@ Lista ordenadas:
 
 
 Lista desordenada 
-*
-Markdown te permite poner [enlaces  a una pagina web](http://www.google.es), incluso sólo poniendo la URL: http://wwww.google.es
+* Menu 1
+* Menu 2
+
+Listas en cascada:
+1. Menu 1
+   1. Submenu 1.1
+2. Menu 2
+   1. submenu 2.1
+   2. submenu 2.2
+
+Markdown te permite poner [enlaces  a una pagina web](http://www.google.es), incluso sólo poniendo la URL: http://www.google.es
