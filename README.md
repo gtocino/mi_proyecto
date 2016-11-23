@@ -62,6 +62,6 @@ Otra cita nueva
 > Cita 2.
 
 Listas de Chequeo:
-- [] Patatas.
+- [ ] Patatas.
 - [X] Limones.
-- [] Naranjas.
+- [ ] Naranjas.
