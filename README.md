@@ -46,6 +46,7 @@ Markdown te permite poner [enlaces  a una pagina web](http://www.google.es), inc
 
 Imagen: ![Imagen del Betis](http://e02-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/128x128/185.png 'Imagen Betis')
 
-| Personaje | Posicion | Pasiva |
+| Personaje | Posicion | Comentarios |
 |-----------|----------|--------|
-| Raimundo  | Delantero| Centro  |
+| Raimundo  | Delantero| El mejor del mundo  |
+| Joaquien  | Extremo| Campeon del futbolin  |
