@@ -50,3 +50,5 @@ Imagen: ![Imagen del Betis](http://e02-marca.uecdn.es/assets/datos-deportivos/es
 |-----------|----------|--------|
 | Raimundo  | Delantero| El mejor del mundo  |
 | Joaquien  | Extremo| Campeon del futbolin  |
+
+Tambien te permite <i>crear <b>codigo</b> html</i>
